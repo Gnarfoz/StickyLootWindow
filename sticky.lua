@@ -28,3 +28,5 @@ end
 StickyLootWindow = CreateFrame("Frame")
 StickyLootWindow:SetScript("OnEvent", OnEvent)
 StickyLootWindow:RegisterEvent("ADDON_LOADED")
+StickyLootWindow:RegisterEvent("LOOT_OPENED")
+StickyLootWindow:RegisterEvent("LOOT_CLOSED")
