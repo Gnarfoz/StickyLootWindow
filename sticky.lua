@@ -1,11 +1,11 @@
 -- Very sticky situation
 local function sticky()
-	print("sticky")
+	--print("sticky")
 	SetCVar("deselectOnClick", "0")
 end
 
 local function unsticky()
-	print("unsticky")
+	--print("unsticky")
 	SetCVar("deselectOnClick", "1")
 end
 
