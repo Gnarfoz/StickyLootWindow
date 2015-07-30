@@ -1,4 +1,4 @@
-# Very sticky situation
+-- Very sticky situation
 local function sticky()
 	print("sticky")
 	SetCVar("deselectOnClick", "0")
