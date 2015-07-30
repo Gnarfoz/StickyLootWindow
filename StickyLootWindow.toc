@@ -1,12 +1,12 @@
 ## Interface: 60200
 
 ## Title: StickyLootWindow
-## Notes: XXX Allows you to (de)select any language in the group finder language filter.
-## Notes-deDE: XXX Freie Sprachauswahl im LFG-Fenster. Eigene Sprache abwählen erlaubt!
+## Notes: Prevents accidental target deselection while looting caused by deselecting the target
+## Notes-deDE: Verhindert versehentliches Schließen des Lootfensters durch abwählen des Ziels
 
 ## Version: @project-version@
 ## Author: Gnarfoz
 ## X-Email: gnarfoz@gmail.com
-## X-Category: Miscellaneous
+## X-Category: Bags
 
 sticky.lua
