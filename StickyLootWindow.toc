@@ -1,0 +1,12 @@
+## Interface: 60200
+
+## Title: StickyLootWindow
+## Notes: XXX Allows you to (de)select any language in the group finder language filter.
+## Notes-deDE: XXX Freie Sprachauswahl im LFG-Fenster. Eigene Sprache abwählen erlaubt!
+
+## Version: @project-version@
+## Author: Gnarfoz
+## X-Email: gnarfoz@gmail.com
+## X-Category: Miscellaneous
+
+sticky.lua
