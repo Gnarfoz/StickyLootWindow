@@ -1,4 +1,4 @@
-## Interface: 60200
+## Interface: 70000
 
 ## Title: StickyLootWindow
 ## Notes: Prevents accidental target deselection while looting caused by deselecting the target
